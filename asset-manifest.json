@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Argus-project/static/css/main.86fb1ab5.css",
+    "main.js": "/Argus-project/static/js/main.211397c5.js",
+    "static/js/787.3c647679.chunk.js": "/Argus-project/static/js/787.3c647679.chunk.js",
+    "static/media/instagram.png": "/Argus-project/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/india.png": "/Argus-project/static/media/india.9021d1cc7be32cd67293.png",
+    "static/media/twitter.png": "/Argus-project/static/media/twitter.5e25e7dbdcfda120edc8.png",
+    "static/media/pinterest.png": "/Argus-project/static/media/pinterest.e38f3012dc571ed17e78.png",
+    "static/media/playstore.png": "/Argus-project/static/media/playstore.23f630669d8da5a9a1e4.png",
+    "static/media/find.png": "/Argus-project/static/media/find.2754967345de879c0a7b.png",
+    "static/media/facebook.png": "/Argus-project/static/media/facebook.4f037d961598aff2a0a4.png",
+    "static/media/youtubeWhite.png": "/Argus-project/static/media/youtubeWhite.fa14915ad25a1edb88db.png",
+    "index.html": "/Argus-project/index.html",
+    "main.86fb1ab5.css.map": "/Argus-project/static/css/main.86fb1ab5.css.map",
+    "main.211397c5.js.map": "/Argus-project/static/js/main.211397c5.js.map",
+    "787.3c647679.chunk.js.map": "/Argus-project/static/js/787.3c647679.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86fb1ab5.css",
+    "static/js/main.211397c5.js"
+  ]
+}
